@@ -1,0 +1,16 @@
+Helmet
+Chest
+Belt
+Greaves
+Boots
+Shoulder
+Bracer
+Gloves
+RR
+LR
+Amu
+LW
+RW
+Gem1
+Gem2
+Gem3

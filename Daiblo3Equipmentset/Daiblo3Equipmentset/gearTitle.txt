@@ -1,0 +1,16 @@
+Helmet
+Chest
+Belt
+Greaves
+Boots
+Shoulder
+Bracer
+Gloves
+Right Ring
+Left Ring
+Amulet
+Left Weapon slot
+Right Weapon slot
+Gem 1
+Gem 2
+Gem 3

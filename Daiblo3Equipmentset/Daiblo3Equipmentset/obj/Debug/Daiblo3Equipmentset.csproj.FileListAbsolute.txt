@@ -1,0 +1,8 @@
+C:\Users\Tyler Jones\source\repos\Daiblo3Equipmentset\Daiblo3Equipmentset\bin\Debug\Daiblo3Equipmentset.exe.config
+C:\Users\Tyler Jones\source\repos\Daiblo3Equipmentset\Daiblo3Equipmentset\bin\Debug\Daiblo3Equipmentset.exe
+C:\Users\Tyler Jones\source\repos\Daiblo3Equipmentset\Daiblo3Equipmentset\bin\Debug\Daiblo3Equipmentset.pdb
+C:\Users\Tyler Jones\source\repos\Daiblo3Equipmentset\Daiblo3Equipmentset\obj\Debug\Daiblo3Equipmentset.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Jones\source\repos\Daiblo3Equipmentset\Daiblo3Equipmentset\obj\Debug\Daiblo3Equipmentset.exe
+C:\Users\Tyler Jones\source\repos\Daiblo3Equipmentset\Daiblo3Equipmentset\obj\Debug\Daiblo3Equipmentset.pdb
+C:\Users\Tyler Jones\source\repos\Daiblo3Equipmentset\Daiblo3Equipmentset\bin\Debug\DataSources\gearTitle.txt
+C:\Users\Tyler Jones\source\repos\Daiblo3Equipmentset\Daiblo3Equipmentset\obj\Debug\Daiblo3Equipmentset.csprojAssemblyReference.cache
