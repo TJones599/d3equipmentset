@@ -71,7 +71,7 @@
 
                 System.IO.File.WriteAllLines(filePath, Gear);
 
-                string location = folderpath + @"\\DataSources\\Sound\\OOT_Fanfare_Item.wav";
+                string location = folderpath + @"\DataSources\Sound\OOT_Fanfare_Item.wav";
 
                 sp.SoundLocation = location;
                 sp.Load();
